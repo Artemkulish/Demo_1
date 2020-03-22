@@ -1,0 +1,5 @@
+image: ubuntu
+
+stage: build
+  script:
+    - echo "It works"
